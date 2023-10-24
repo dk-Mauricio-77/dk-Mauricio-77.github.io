@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumnos expediente="A001">
+        <nombre>Marc</nombre>  
+        <apellido>Venteo</apellido>  
+        <ciclo>DAW</ciclo> 
+        <nota_media>7</nota_media> 
+    </alumnos>
+
+    <alumnos expediente="A002">
+        <nombre>Juan</nombre>  
+        <apellido>Diaz</apellido>  
+        <ciclo>ASIR</ciclo> 
+        <nota_media>8</nota_media> 
+    </alumnos>
+</alumnos>
